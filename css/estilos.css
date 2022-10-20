@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(to right, #00008B, #00FFFF);
+}
+
+
+#login { 
+width: 30%;
+border: 1px solid black;
+border-radius: 10px ;
+margin: 0 auto;
+padding: 30px;
+background: #fff;
+opacity: 80%;
+box-shadow: 30px 30px 30px 10px rgba(black.5);
+}
